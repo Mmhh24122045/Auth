@@ -1,0 +1,13 @@
+auth system
+
+
+business logic - controllers - server side code
+
+-server (express)
+-database connection    - mongoose
+-define models (schemas) - mongoose
+-endpoints (routes)
+
+
+Register 
+login
